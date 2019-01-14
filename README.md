@@ -1,6 +1,6 @@
 ![jump city records](http://i.imgur.com/jgJVyBk.png)
 
-Jump City Records is an experimental, open-source record label that produces and releases its albums through a series of python bots. It was designed by Luis Queral (http://luisquer.al) and engineered by Michiel Overtoom (http://www.michielovertoom.com/).
+Jump City Records is an experimental, open-source record label that produces and releases its albums through a series of python bots. Some albums can be listened to at https://soundcloud.com/jumpcityrecords/albums. It was designed by Luis Queral (http://luisquer.al) and engineered by Michiel Overtoom (http://www.michielovertoom.com/).
 
 The above illustration was done by Matt Carignan (http://mattcarignan.com/).
 
